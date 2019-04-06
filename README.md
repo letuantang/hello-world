@@ -1,3 +1,3 @@
 # hello-world
 My first repository in Github.
-My full name is Tuan-Tang Le, I'm currently is PhD student at NTUST.
+I am currently an PhD student at NTUST - Advanced Intelligent Robot Lab - Current research is mainly about Deep learning in Computer Vision and Robotics.
