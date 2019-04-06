@@ -21,7 +21,7 @@ if not os.path.isdir(os.path.abspath(goal_dir)):
     os.mkdir(goal_dir)
 
 
-filenames = glob.glob(path + "/*.jpg") #read all files in the path mentioned
+filenames = glob.glob(path + "/*.JPG") #read all files in the path mentioned
 #filenames = glob.glob(path + "/*.JPG") #read all files in the path mentioned
 
 for x in filenames:
